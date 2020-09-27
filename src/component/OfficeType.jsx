@@ -15,7 +15,7 @@ class OfficeType extends Component {
                                 <p>
                                     Our virtual offices allow your business to get our location address, 
                                     phone services and also you become a member of our community with 
-                                    benefits such as access to our meeting rooms.<br></br>
+                                    benefits such as access to our meeting rooms.<br></br><br></br>
                                 </p>
                             </div>
                         </div>
