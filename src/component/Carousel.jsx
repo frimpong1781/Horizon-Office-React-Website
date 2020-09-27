@@ -16,13 +16,13 @@ class Carousel extends Component {
                          {/* Wrapper for slides */}
                         <div className="carousel-inner carousel-content" role="listbox">
                             <div className="item active">
-                                <img src={images/ivan-friz-fYIVkcO3qXU-unsplash.jpg} alt="tower" />
+                                <img src={'images/ivan-friz-fYIVkcO3qXU-unsplash.jpg'} alt="tower" />
                             </div>
                             <div className="item">
-                                <img src={images/who-du-nelson-REbYY8IpTwg-unsplash.jpg} alt="tower" />
+                                <img src={'images/who-du-nelson-REbYY8IpTwg-unsplash.jpg'} alt="tower" style={{width: 1600, height: 500}} />
                             </div>
                             <div className="item">
-                                <img src={images/minh-tan-mtsinichi-aVy6FUUwlQY-unsplash.jpg} alt="tower" />
+                                <img src={'images/minh-tan-mtsinichi-aVy6FUUwlQY-unsplash.jpg'} alt="tower" />
                             </div>
                         </div>
                     
