@@ -5,6 +5,7 @@ import "./style.css"
 import NavBar from './component/NavBar';
 import Carousel from './component/Carousel';
 import OfficeType from './component/OfficeType';
+import Footer from './component/Footer';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <NavBar />
         <Carousel />
         <OfficeType />
+        <Footer />
     </div>
   );
 }
